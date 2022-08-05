@@ -1,7 +1,16 @@
-Hello I'm Fu11Stack!
+Hi 👋, I'm Fu11Stack A passionate Web developer. Love to build beautiful websites with latest tech!
 
-Welcome to my NFT collection!
+🔭 I’m currently working on React Projects
 
+📝 I regularly write articles on
+
+📫 How to reach me Jus10Lopez@yahoo.com
+
+▶ Connect with me:
+
+▶ Languages and Tools:
+
+bootstrap chartjs css3 d3js electron express git graphql html5 javascript nextjs nodejs postman react redux sass tailwind webpack xd
 Getting Started with Create React App
 
 This project was bootstrapped with Create React App.
@@ -13,8 +22,9 @@ npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+The page will reload if you make edits.\
+
+animation updates You will also see any lint errors in the console.
 npm test
 
 Launches the test runner in the interactive watch mode.
