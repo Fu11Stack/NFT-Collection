@@ -4,8 +4,6 @@ Hi 👋, I'm Fu11Stack A passionate Web developer. Love to build beautiful websi
 
 📫 How to reach me Jus10Lopez@yahoo.com
 
-▶ Connect with me:
-
 ▶ Languages and Tools:
 
 <h3 align="left">▶ Languages and Tools:</h3>
